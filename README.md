@@ -4,7 +4,7 @@ It is a ticket like
 b. What is a pull request?
 it combines two commands together to get the updates
 c. Describe the steps to open a pull request?
-
+After Commiting the changes we create a new pull request from our branch and fork, and after making sure that our changes are reflected
 d. Describe the steps to add a collaborator to a repository (share write permissions)
 
 e. What is the difference between git and GitHub?
