@@ -8,9 +8,10 @@ After Commiting the changes we create a new pull request from our branch and for
 d. Describe the steps to add a collaborator to a repository (share write permissions)
 
 e. What is the difference between git and GitHub?
-
+git is a tool and use command line while github is a service and uses GUI
 f. What does git diff do?
-
+shows changes between commit and working tree
 g. What is the main branch?
-
+it is the default branch
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+yes we should do that
