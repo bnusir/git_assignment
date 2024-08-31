@@ -1,4 +1,4 @@
-Git Assignment - bnusir \\n
+Git Assignment - bnusir '\n
 a. What is an issue? 
    **ANSWER:** It is a ticket like 
 b. What is a pull request? 
