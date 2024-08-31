@@ -4,7 +4,7 @@ a. What is an issue?  <br>
  It is a ticket like  <br> <br>
 **Question**
 b. What is a pull request? <br>
-  it combines two commands together to get the updates made on branch <br> <br>
+  it combines two changes from different branches together <br> <br>
 **Question**
 c. Describe the steps to open a pull request? <br>
  After Commiting the changes we create a new pull request from our branch and fork, and after making sure that our changes are reflected  <br> <br>
