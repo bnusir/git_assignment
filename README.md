@@ -1,6 +1,6 @@
 Git Assignment - bnusir 
 a. What is an issue? 
-It is a ticket like 
+   **ANSWER:** It is a ticket like 
 b. What is a pull request? 
 it combines two commands together to get the updates made on branch
 c. Describe the steps to open a pull request?
